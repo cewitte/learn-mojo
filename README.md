@@ -38,6 +38,10 @@ Code shows how to import Python libraries, using `numpy` as an example.
 Exemplifying exceptions and errors with `raises`, `try`, `except` and `finally` while simulating the opening of a file.
 <br/><br/>
 
+## :file_folder: function-arguments
+Usage of inout (mutable), borrowed (immutable) and owned (transfer ownership) for variables. This has more comments because the concepts may be kinda hard to grasp.
+<br/><br/>
+
 # How to run the examples
 Assuming you have Mojo installed, go to each folder and run from the terminal:
 
