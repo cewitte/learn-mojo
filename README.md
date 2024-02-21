@@ -30,11 +30,7 @@ The same function in Python and Mojo syntax, with some minor differences like, i
 How to create classes, comparing Python and Mojo. Take a look at `main.py` and `main.mojo`.
 <br/><br/>
 
-## :file_folder: objects
-How to create classes, comparing Python and Mojo. Take a look at `main.py` and `main.mojo`.
-<br/><br/>
-
-## :file_folder: objects
+## :file_folder: libraries
 Code shows how to import Python libraries, using `numpy` as an example.
 <br/><br/>
 
