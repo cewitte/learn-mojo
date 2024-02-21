@@ -34,6 +34,10 @@ How to create classes, comparing Python and Mojo. Take a look at `main.py` and `
 Code shows how to import Python libraries, using `numpy` as an example.
 <br/><br/>
 
+## :file_folder: raises
+Exemplifying exceptions and errors with `raises`, `try`, `except` and `finally` while simulating the opening of a file.
+<br/><br/>
+
 # How to run the examples
 Assuming you have Mojo installed, go to each folder and run from the terminal:
 
