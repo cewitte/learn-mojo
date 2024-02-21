@@ -39,7 +39,7 @@ Exemplifying exceptions and errors with `raises`, `try`, `except` and `finally` 
 <br/><br/>
 
 ## :file_folder: function-arguments
-Usage of inout (mutable), borrowed (immutable) and owned (transfer ownership) for variables. This has more comments because the concepts may be kinda hard to grasp.
+Usage of `inout` (mutable), `borrowed` (immutable) and `owned` (transfer ownership) for variables. This has more comments because these concepts may be kinda hard to grasp.
 <br/><br/>
 
 # How to run the examples
