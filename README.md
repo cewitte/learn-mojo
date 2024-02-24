@@ -42,6 +42,14 @@ Exemplifying exceptions and errors with `raises`, `try`, `except` and `finally` 
 Usage of `inout` (mutable), `borrowed` (immutable) and `owned` (transfer ownership) for variables. This has more comments because these concepts may be kinda hard to grasp.
 <br/><br/>
 
+## :file_folder: with
+Only Python code. Usage of `with` in Mojo has not been covered in the video tutorial. 
+<br/><br/>
+
+## :file_folder: mojo-packages
+An example showing how to create mojo packages to be used elsewhere. Plese refer to `package-command.md` for instructions on how to use the `mojo package <PACKAGE SOURCE FOLDER> -o <PACKAGE NAME>.mojopkg`.
+<br/><br/>
+
 # How to run the examples
 Assuming you have Mojo installed, go to each folder and run from the terminal:
 

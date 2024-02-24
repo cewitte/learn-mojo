@@ -1,0 +1,1 @@
+# it worked with an empty __init__.mojo!
