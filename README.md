@@ -83,7 +83,7 @@ For the few Python files, it should be like `python3 main.py` or `python main.py
 
 # Thank you notes
 
-Thank you [@elliotarlege](https://www.youtube.com/channel/UCjlt_l6MIdxi4KoxuMjhYxg) and [freeCodeCamp](https://www.freecodecamp.org) for the great Mojo video introduction.
+Thank you [Elliot Arledge](https://github.com/Infatoshi) and [freeCodeCamp](https://www.freecodecamp.org) for the great Mojo video introduction.
 
 ---
 Made with :heart: by Carlos Eduardo Witte.
