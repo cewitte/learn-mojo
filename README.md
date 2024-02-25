@@ -50,6 +50,20 @@ Only Python code. Usage of `with` in Mojo has not been covered in the video tuto
 An example showing how to create mojo packages to be used elsewhere. Plese refer to `package-command.md` for instructions on how to use the `mojo package <PACKAGE SOURCE FOLDER> -o <PACKAGE NAME>.mojopkg`.
 <br/><br/>
 
+## :file_folder: SIMD
+`SIMD`: Single Instruction Multiple Data, the coolest type ever: it's essentially a CPU instruction, for instance, if you have an array, you perform an operation through all of that array through SIMD. 
+
+In Python, you would have something like...
+
+```arr = [2, 4, 6, 8]```
+
+... and if you wanted to multiply all of its elements, you would have to loop trough it. With `SIMD` you do everything in one operation.
+<br/><br/>
+
+## :file_folder: decorators
+Metaprogramming using decorators like `@unroll`, but covered very superficially.
+<br/><br/>
+
 # How to run the examples
 Assuming you have Mojo installed, go to each folder and run from the terminal:
 
