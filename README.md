@@ -1,9 +1,13 @@
 # learn-mojo
-Code for freeCodeCamp's YouTube video [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?si=IVlbAj6FuW5Ffavx).
+This GitHub repository contains the example code presented along freeCodeCamp's YouTube video [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?si=IVlbAj6FuW5Ffavx). This introductory Mojo course was recorded by [@elliotarlege](https://www.youtube.com/channel/UCjlt_l6MIdxi4KoxuMjhYxg).
 
-This repository contains basic Mojo source code for reference and learning purposes.
+Although there is an official [GitHub repository](https://github.com/Infatoshi/intro-to-mojo) linked in the YouTube video's description, as of this writing it does not contain all the code presented by Elliot. This was my motivation to create this repository and make it public.
 
-Below goes a little explanation on folders and their contents.
+# Repository Contents
+
+Elliot sectioned his video into topics for which he presented live code examples. I've done my best to replicate Elliot's examples in each of the folders listed below, although you can expect some changes because Eliot makes changes quite frequently throughout the video, sometimes based on previous examples.
+
+Below you will find the topics covered by Elliot in the order they were presented and a brief explanation of the topic or code it contains:
 <br/><br/>
 
 ## :file_folder: hello-world
@@ -73,6 +77,10 @@ You can also `mojo build [options] <path>` to create [executable files](https://
 
 For the few Python files, it should be like `python3 main.py` or `python main.py` for earlier versions of Python.
 <br/><br/>
+
+# Thank you notes
+
+Thank you [@elliotarlege](https://www.youtube.com/channel/UCjlt_l6MIdxi4KoxuMjhYxg) and [freeCodeCamp](https://www.freecodecamp.org) for the great Mojo video introduction.
 
 ---
 Made with :heart: by Carlos Eduardo Witte.
