@@ -1,12 +1,12 @@
 # learn-mojo
 
-![Mike Myers' Mojo](https://cdn.quotesgram.com/img/25/85/1657983419-Austin-Powers-Mojo.jpg)
+![Austin Powers' Mojo](https://cdn.quotesgram.com/img/25/85/1657983419-Austin-Powers-Mojo.jpg)
 
 This GitHub repository contains the example code presented along freeCodeCamp's YouTube video [Mojo Programming Language – Full Course for Beginners](https://youtu.be/5Sm9IVMet9c?si=IVlbAj6FuW5Ffavx). This introductory Mojo course was recorded by [@elliotarlege](https://www.youtube.com/channel/UCjlt_l6MIdxi4KoxuMjhYxg).
 
 Although there is an official [GitHub repository](https://github.com/Infatoshi/intro-to-mojo) linked in the YouTube video's description, as of this writing it does not contain all the code presented by Elliot. This was my motivation to create this repository and make it public.
 
-# Repository Contents
+# Repository contents
 
 Elliot sectioned his video into topics for which he presented live code examples. I've done my best to replicate Elliot's examples in each of the folders listed below, although you can expect some changes because Eliot makes changes quite frequently throughout the video, sometimes based on previous examples.
 
