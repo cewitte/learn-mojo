@@ -7,7 +7,7 @@ Although there is an official [GitHub repository](https://github.com/Infatoshi/i
 
 Elliot sectioned his video into topics for which he presented live code examples. I've done my best to replicate Elliot's examples in each of the folders listed below, although you can expect some changes because Eliot makes changes quite frequently throughout the video, sometimes based on previous examples.
 
-Below you will find the topics covered by Elliot in the order they were presented and a brief explanation of the topic or code it contains:
+Below you will find the topics covered by Elliot in the order they were presented and a brief explanation of the topic or code contained in it:
 <br/><br/>
 
 ## :file_folder: hello-world
